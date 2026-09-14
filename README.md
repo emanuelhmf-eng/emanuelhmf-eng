@@ -28,15 +28,14 @@ de código.
 
 ### 🚗 Sistema Web de Gestão de Viaturas
 
-Aplicação web para centralização e acompanhamento de informações
-relacionadas à gestão de veículos.
+Aplicação web demonstrativa para gerenciamento de veículos,
+operações, checklists, manutenção e histórico.
 
-**Tecnologias utilizadas:**
+**Tecnologias:** JavaScript • HTML5 • CSS3 • Firebase/Firestore
+no projeto original • armazenamento local na versão demonstrativa.
 
-`HTML` `CSS` `JavaScript` `Firebase` `Cloud Firestore`
-
-> Uma versão demonstrativa e sanitizada será disponibilizada neste
-> GitHub, sem informações institucionais ou dados sensíveis.
+🌐 [Testar aplicação](https://emanuelhmf-eng.github.io/gestao-viaturas-demo/)  
+💻 [Ver código-fonte](https://github.com/emanuelhmf-eng/gestao-viaturas-demo)
 
 ### 📦 Sistema de Gestão de Cautelas e Estoque
 
